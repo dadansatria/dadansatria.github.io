@@ -10,7 +10,7 @@ title: Dadan Satria
 email: dadansatria@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Segera memposting sesuatu yang berguna
-baseurl: "dadansatria.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: dadansatria
 github_username:  dadansatria
